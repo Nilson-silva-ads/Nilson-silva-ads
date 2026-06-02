@@ -30,8 +30,7 @@ Sou um desenvolvedor focado em construir soluções robustas de backend, automa�
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nilson-silva-ads&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-silva-ads&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-</div>
+</p>
