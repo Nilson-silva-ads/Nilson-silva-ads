@@ -1,24 +1,37 @@
-## Bem-vindo(a) ao meu perfil !!
+# Olá, eu sou o Nilson Silva! 👋
 
- <div>
-   <a href="https://github.com/Nilson-silva-ads">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson-silva-ads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-silva-ads&layout=compact&langs_count=6&theme=tokyonight"/>
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas** | **Backend Developer**
+
+Sou um desenvolvedor focado em construir soluções robustas de backend, automações inteligentes e gerenciamento de infraestrutura conteinerizada. Tenho forte histórico em otimização de processos corporativos, unindo minha bagagem técnica em administração com o desenvolvimento de software moderno.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+* **Linguagens & Frameworks:** Python (FastAPI, Django)
+* **Automação & Integrações:** n8n, Webhooks (WhatsApp API), Integração de Sistemas ERP (Bling API)
+* **Infraestrutura & DevOps:** Docker, Docker Compose, Cloudflare Tunnel, WSL2, Git / Git Flow
+* **Bancos de Dados:** PostgreSQL, MongoDB Atlas
+
+---
+
+### 📈 Projetos em Destaque
+
+* **Jujube Kids / Juju API:** Desenvolvimento do ecossistema de backend e APIs para uma plataforma de varejo, utilizando FastAPI e infraestrutura totalmente conteinerizada com Docker.
+* **Automações com n8n:** Implementação de fluxos integrados de dados, conectando bancos de dados e serviços cloud com segurança ponta a ponta via Cloudflare.
+* **WhatsApp Auto-Counter:** Script em Python utilizando Regex e Streamlit para automação e extração de dados analíticos a partir de logs de conversas.
+
+---
+
+### 📫 Como me encontrar
+
+* 💼 **LinkedIn:** [linkedin.com/in/nilson-silva-478621112](https://linkedin.com/in/nilson-silva-478621112)
+* ✉️ **E-mail:** nilsonsantos.das@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilson-silva-ads&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-silva-ads&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Minhas redes sociais abaixo!
- 
-<div> 
- <a href="https://instagram.com/Nilson-silva-ads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nilsonsilva.ads00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nilson-silva-478621112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
